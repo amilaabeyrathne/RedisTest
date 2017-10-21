@@ -1,0 +1,8 @@
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\bin\Debug\RedisTest.exe.config
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\bin\Debug\RedisTest.exe
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\bin\Debug\RedisTest.pdb
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\bin\Debug\StackExchange.Redis.dll
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\bin\Debug\StackExchange.Redis.xml
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\obj\Debug\RedisTest.csproj.CoreCompileInputs.cache
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\obj\Debug\RedisTest.exe
+C:\Users\Amila-Lap\Documents\Visual Studio 2017\Projects\RedisTest\RedisTest\obj\Debug\RedisTest.pdb
